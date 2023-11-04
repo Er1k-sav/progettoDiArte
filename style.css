@@ -10,27 +10,25 @@ body {
     display: grid;
     column-count: 1;
     grid-template-columns: 100%;
-    grid-template-rows: 5% 88% 7%;
+    grid-template-rows: 7% 88% 7%;
 } 
 
 #bar {
     position: relative;
     width: 100%;
     height: 100%;
-    background-color: black;
-
+    background-color: #f00;
 }
 
 #main {
     position: relative;
     width: 100%;
     height: 100%;
-    /*background-color: blue;*/
 }
 
 #footer {
     position: relative;
     width: 100%;
     height: 100%;
-    /*background-color: red;*/
+    background-color: #0f0;
 }
