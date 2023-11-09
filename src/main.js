@@ -38,9 +38,9 @@ if ( WebGL.isWebGLAvailable() ) {
     }
     render()
 
-} else {
+}/* else {
 
 	const warning = WebGL.getWebGLErrorMessage();
 	document.getElementById( 'container' ).appendChild( warning );
 
-}
+}*/
