@@ -1,5 +1,5 @@
 {
-  "name": "progettodiarte",
+  "name": "verona-3dsa",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -9,7 +9,6 @@
   "author": "Er1kFApew, ",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.158.0",
-    "vite": "^4.5.0"
+    "three": "^0.158.0"
   }
 }
