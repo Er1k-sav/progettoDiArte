@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node ./src/main.js",
-    "build": "yarn run",
+    "build": "yarn start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Er1k, FApew",
