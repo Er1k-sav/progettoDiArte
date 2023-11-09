@@ -8,7 +8,7 @@
     "start": "node ./src/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Er1kFApew,",
+  "author": "Er1k, FApew",
   "license": "ISC",
   "dependencies": {
     "three": "^0.158.0"
